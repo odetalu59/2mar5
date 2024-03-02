@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Disallow: 
+User-agent: googlebot-image
+Disallow: 
+User-agent: googlebot-mobile
+Disallow: 
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://yancongwen.cn/superjp.html/sitemap.xml
+Sitemap: https://yancongwen.cn/gojekpot.html/sitemap.xml
+Sitemap: https://yancongwen.cn/winstrike69.html/sitemap.xml
+Sitemap: https://yancongwen.cn/jagoan86.html/sitemap.xml
+Sitemap: https://yancongwen.cn/kaptenjackpot.html/sitemap.xml
+Sitemap: https://yancongwen.cn/boosterjp.html/sitemap.xml
+Sitemap: https://yancongwen.cn/kerajaanslot.html/sitemap.xml
+Sitemap: https://yancongwen.cn/viral88.html/sitemap.xml
+Sitemap: https://yancongwen.cn/clan4d.html/sitemap.xml
+Sitemap: https://yancongwen.cn/dinamit4d.html/sitemap.xml
+Sitemap: https://yancongwen.cn/gori77.html/sitemap.xml
+Sitemap: https://yancongwen.cn/viral4d.html/sitemap.xml
